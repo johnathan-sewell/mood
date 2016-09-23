@@ -1,0 +1,983 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userid"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"red",
+				"redisOptions"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"qu",
+				"queryCompletionScriptUrl"
+			],
+			[
+				"sea",
+				"searchUrl"
+			],
+			[
+				"mod",
+				"modalEl"
+			],
+			[
+				"sear",
+				"searchModal"
+			],
+			[
+				"auto",
+				"autofocus	Attr"
+			],
+			[
+				"col",
+				"colors"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"matHe",
+				"mathemFormHtml"
+			],
+			[
+				"form",
+				"formTemplate"
+			],
+			[
+				"matHem",
+				"mathemForm"
+			],
+			[
+				"js",
+				"js-form-container"
+			],
+			[
+				"car",
+				"cartContentJson"
+			],
+			[
+				"upd",
+				"upgradeFormWithMathemValues"
+			],
+			[
+				"appen",
+				"append"
+			],
+			[
+				"check",
+				"checkoutForm"
+			],
+			[
+				"append",
+				"appendAndSubmitHtmlForm"
+			],
+			[
+				"docu",
+				"documentListener"
+			],
+			[
+				"moda",
+				"modalElement"
+			],
+			[
+				"close",
+				"closeDeliveryModal"
+			],
+			[
+				"hide",
+				"hideDeliveryModal"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"clci",
+				"clickOriginatedInModal"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"arla",
+				"arlaCore"
+			],
+			[
+				"Arla",
+				"arlaMathem"
+			],
+			[
+				"scro",
+				"scrollPosition"
+			],
+			[
+				"sc",
+				"scrollY"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"file ren",
+				"File: Rename"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"file",
+				"File: Rename"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"git l",
+				"Git: Log Current File"
+			],
+			[
+				"gti bl",
+				"Git: Blame"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"GIT LOG",
+				"Git: Log Current File"
+			],
+			[
+				"GIT DI",
+				"Git: Diff Current File"
+			],
+			[
+				"GIT BL",
+				"Git: Blame"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"fil",
+				"File: Rename"
+			],
+			[
+				"pake",
+				"Package Control: Install Package"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"git log cu",
+				"Git: Log Current File"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"editor",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git show",
+				"Git: Show Current File"
+			],
+			[
+				" git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/C/code/Arla.Web.Apps.Search"
+	],
+	"file_history":
+	[
+		"/Users/jonathan.sewell/code/smiles/package.json",
+		"/Users/jonathan.sewell/code/smiles/webpack.config.js",
+		"/Users/jonathan.sewell/code/smiles/readme.md",
+		"/Users/jonathan.sewell/code/smiles/public/src/app.js",
+		"/Users/jonathan.sewell/code/smiles/index.js",
+		"/Users/jonathan.sewell/code/smiles/api.js",
+		"/Users/jonathan.sewell/code/smiles/.editorconfig",
+		"/Users/jonathan.sewell/code/smiles/.gitignore",
+		"/Users/jonathan.sewell/code/smiles/public/index.html",
+		"/Users/jonathan.sewell/code/smiles/api/api.js",
+		"/Users/jonathan.sewell/Downloads/favicomatic/favicon-16x16.png",
+		"/Users/jonathan.sewell/Downloads/favicomatic/favicon-32x32.png",
+		"/Users/jonathan.sewell/Downloads/favicomatic/favicon.ico",
+		"/Users/jonathan.sewell/code/smiles/.npmrc",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/.gitattributes",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.Test/Unit/UI/QueryCompletionConfigurationPresenterTests.cs",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Areas/WebAppsSearch/Views/Blocks/SearchBlockType/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Web/Apps/Search/UI/Scss/pages/_all.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Web/Apps/Search/UI/Scss/pages/_search-modal.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Areas/WebAppsSearch/Views/Shared/SearchOverlay/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Web/Apps/Search/UI/Js/Src/search-modal.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Areas/WebAppsSearch/Views/Shared/SearchMenuItem/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Tools/Gruntfile.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Web/Apps/Search/UI/Js/Src/Vendors/Rx.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Web/Apps/Search/UI/Js/Src/search.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Web/Apps/Search/UI/Js/Src/siteseeker.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Web/Apps/Search/UI/Js/Src/Vendors/jquery.autocomplete.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Arla.Web.Apps.Search.UI.csproj",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Css/core.css",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Scss/_variables.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Scss/modules/_add-to-cart-link.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Scss/helpers/_functions.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Areas/WebCore/Views/Shared/Layouts/_CoreLayout.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Css/purchase.css.map",
+		"/Volumes/C/code/Arla.Web/Development/Arla.Web/Areas/WebAppsSearch/Views/Shared/SearchMenuItem/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Tools/Gruntfile.js",
+		"/Users/jonathan.sewell/.bashrc",
+		"/Users/jonathan.sewell/..bashrc",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Tools/Gruntfile.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/.gitignore",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Web/Apps/Search/UI/Scss/_webcore.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Tools/package.json",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Scss/pages/_cart-view.scss",
+		"/Users/jonathan.sewell/code/johnathansewell/README.md",
+		"/Users/jonathan.sewell/code/johnathansewell/index.html",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Tools/install-arla.web.core.package.ps1",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/.gitignore",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Tools/.scss-lint.yml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Search/Development/Tools/.scss-lint.yml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/.editorconfig",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Mathem/Development/Tools/Gruntfile.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Recipes/Development/Tools/Gruntfile.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Mathem/Development/Arla.Web.Apps.Mathem.UI/Web/Core/UI/Scss/_variables.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Scss/pages/_foodbox-view.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Js/Src/Vendors/jsmpg.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Scss/modules/_foodbox-hero.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Scss/modules/_delivery-info-link.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Js/Src/core-deck-video-background.js",
+		"/Users/jonathan.sewell/code/johnathansewell/.editorconfig",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Scss/modules/_add-to-cart.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Areas/WebCore/Views/Blocks/GenericDeckBlockType/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Js/Src/core-deck-video-background.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Recipes/Development/Arla.Web.Apps.Recipes.UI/Web/Core/UI/Js/Src/core-deck-video-background.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Mathem/Development/Arla.Web.Apps.Mathem.UI/Web/Apps/Mathem/UI/Scss/modules/_check-postal.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Areas/WebAppsPurchase/Views/Pages/FoodBoxesPageType/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Js/Src/shopping-cart.js",
+		"/Volumes/C/code/Arla.Web/Development/Arla.Web/Web/Apps/Purchase/UI/Scss/purchase.scss",
+		"/Volumes/C/code/Arla.Web/Development/packages/Arla.Web.Apps.Purchase.UI.3.2.3-tdeci466/content/Web/Apps/Purchase/UI/Scss/modules/_foodbox-hero.scss",
+		"/Volumes/C/code/Arla.Web/Development/Arla.Web/Web/Apps/Purchase/UI/Scss/modules/_foodbox-hero.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Brands/Development/Arla.Web.Apps.Brands.UI/Areas/WebAppsBrands/Views/Blocks/BrandListBlockType/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Brands/Development/Arla.Web.Apps.Brands.UI/Areas/WebAppsBrands/Views/Pages/BrandPage/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Brands/Development/Arla.Web.Apps.Brands/Models/ViewModels/Pages/BrandPageViewModel.cs",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Brands/Development/Arla.Web.Apps.Brands/Models/ViewModels/Blocks/BrandListViewModel.cs",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Brands/Development/Arla.Web.Apps.Brands/Areas/WebAppsBrands/Controllers/Blocks/BrandListBlockTypeController.cs",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core/ThumbnailList/ThumbnailListHelper.cs",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core/ThumbnailList/ThumbnailItem.cs",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Areas/WebCore/Views/LocalBlocks/HeroBlockType/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Areas/WebCore/Views/LocalBlocks/MultilineHeadingBlockType/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Brands/Development/Arla.Web.Apps.Brands/Models/Pages/BrandPageType.cs",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Areas/WebCore/Views/Shared/Layouts/_DefaultRightPanelLayout.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core/Models/Pages/StandardPageType.cs",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Brands/Development/Arla.Web.Apps.Brands.UI/Areas/WebAppsBrands/Views/Shared/ProductListBrandHeading/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Areas/WebCore/Views/Shared/MainContent/_MainContent.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Brands/Development/Arla.Web.Apps.Brands.UI/Areas/WebAppsBrands/Views/Shared/BrandListPartial/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Brands/Development/Tools/Gruntfile.js",
+		"/Volumes/C/code/Arla.Web/Development/Arla.Web/Areas/WebAppsNews/Views/Pages/ArticleDetailPage/Index.cshtml",
+		"/Volumes/C/code/Arla.Web/Development/Arla.Web/Areas/WebAppsBrands/Views/Blocks/BrandListBlockType/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Recipes/Development/Arla.Web.Apps.Recipes.UI/Web/Apps/Recipes/UI/Scss/modules/_recipe-media-area.scss",
+		"/Volumes/C/code/Arla.Web/Development/Arla.Web/Web/Apps/Mathem/UI/Scss/modules/_check-postal.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Css/purchase.css",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Js/Dist/purchase.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Recipes/Development/Arla.Web.Apps.Recipes.UI/Web/Apps/Recipes/UI/Css/recipes.css",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Images/icons/_custom-selectors.json",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Tools/node_modules/grunt-grunticon/tasks/grunticon.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Areas/WebCore/Views/Pages/StandardPageType/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Scss/modules/_decks.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Scss/modules/_decks.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Js/Src/modal.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Mathem/Development/Arla.Web.Apps.Mathem.UI/Areas/WebAppsMathem/Views/Pages/AddRecipesToShoppingListForm/Index.cshtml",
+		"/Volumes/C/code/Arla.Web/Development/Arla.Web/Web/Apps/GenericPoll/UI/Scss/modules/_spinner.scss",
+		"/Volumes/C/code/Arla.Web/Development/Arla.Web/Areas/WebAppsMathem/Views/Pages/AddRecipesToShoppingListForm/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Areas/WebAppsPurchase/Views/Shared/AddToShoppingCartButton/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Mathem/Development/Arla.Web.Apps.Mathem.UI/Web/Apps/Mathem/UI/Js/Src/delivery-info.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Recipes/Development/Tools/exit",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Scss/modules/_faq-deck.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Scss/modules/_faq-deck.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Images/icons/line-grey-quaternary.svg",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Mathem/Development/Arla.Web.Apps.Mathem.UI/Areas/WebAppsMathem/Views/Shared/CheckPostalCode/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Recipes/Development/Arla.Web.Apps.Recipes.UI/Web/Apps/Recipes/UI/Scss/recipes.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Scss/modules/_modal.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Js/Src/core-polyfills.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Areas/WebCore/Views/Blocks/RibbonMenuBlockType/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Js/Src/core-polyfills.js",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Images/icons/white-shopping-cart.svg",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Images/icons/van-dark-green-big.svg",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Areas/WebAppsPurchase/Views/Shared/FoodBoxesHeroContent/Index.cshtml",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Images/icons/van-white.svg",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Images/icons/arrow-right-green.svg",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Images/icons/arrow-left.svg",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Images/icons/arrow-left-green.svg",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Images/icons/van-white.svg",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Images/icons/cheasy-logo2.svg",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Images/grunticons/icons.data.png.css",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Tools/package.json",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Images/icons/cheasy-logo.svg",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Scss/_variables.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Scss/helpers/_mixins.scss",
+		"/Users/jonathan.sewell/code/Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Images/icons/_custom-selectors.json"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"-*/dist/*, -/Volumes/C/code/Arla.Web/*, -*.css.map",
+			"-*/dist/*, -/Volumes/C/code/Arla.Web/*, -.css.map",
+			"-*/dist/*, -/Volumes/C/code/Arla.Web/*,",
+			"/Volumes/C/code/Arla.Web",
+			"-*/dist/*, -/Volumes/C/code/Arla.Web/*,",
+			"-*/dist/*, -/Volumes/C/code/Arla.Web/*, *.scss",
+			"-*/dist/*, -//Volumes/C/code/Arla.Web/*, *.scss",
+			"-*/dist/*, -//Volumes/C/code/Arla.Web/*",
+			"-*/dist/*,",
+			"-*/dist/*, *.cshtml",
+			"-*/dist/*,",
+			"-*/dist/*, *.scss",
+			"-*/dist/*,",
+			"/Users/jonathan.sewell/code/Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Scss",
+			"-*/dist/*,",
+			"-*/dist/*, *.scss",
+			"-*/dist/*,",
+			"-*/dist/*, *.cs",
+			"-*/dist/*, *.cshtml",
+			"-*/dist/*, *.cs",
+			"-*/dist/*, *.cshtml",
+			"-*/dist/*,",
+			"-*/dist/*, *.scss",
+			"-*/dist/*, *.css",
+			"-*/dist/*,",
+			"-*/dist/*",
+			"-*/dist/*, *.cshtml",
+			"-*/dist/*, *.scss",
+			"-*/dist/*,",
+			"-*/dist/*, *.js",
+			"-*/dist/*",
+			"-*/dist/*, *.SCSS",
+			"-*/dist/*",
+			"",
+			"-*/dist/*",
+			"*.scss, -*/dist/*",
+			"-*/dist/*",
+			"*.js, -*/dist/*",
+			"*.js -*/dist/*",
+			"*.js",
+			"*.scss",
+			"console.log",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"/Users/jonathan.sewell/code/Arla.Web.Apps.Mathem/Development/Tools",
+			"",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name",
+			"Happy",
+			"name",
+			"/user/",
+			"user",
+			"api",
+			"favicon",
+			"Connected",
+			"	",
+			"Client",
+			"client",
+			"' ",
+			"\"",
+			"searchUrl",
+			"queryCompletionScriptUrl",
+			"search-form",
+			"el",
+			"destroyModalElement",
+			"createModalElement",
+			"handleClick",
+			"currentModal",
+			"currentEl",
+			"modalEl",
+			"load-more-buttons",
+			"1.3",
+			"load-more-buttons",
+			"selected-state",
+			"todo",
+			"e2e2e2",
+			"	    \n",
+			"6em",
+			"0.",
+			"media",
+			"http://arla.se",
+			"064b19",
+			"arla-style-guide-colors",
+			"styleGuideColor",
+			"Concurrent",
+			"concurrent",
+			"ArlaWebAppsSearchUI",
+			"Copy",
+			"copy",
+			"SearchMenuItem",
+			"nav",
+			"InstallArlaWebCoreUIFrontend",
+			"jquery.ui",
+			"jquery.autocomplete",
+			"ac_results",
+			"queryCompletionScriptUrl",
+			"appliance.siteseeker.se",
+			"colors(",
+			"colors",
+			"color(",
+			"color",
+			"col",
+			"green-new",
+			"cloud.webtype.com",
+			"MVB Emmascript",
+			"woff2",
+			"cloud.webtype.com/webtype",
+			"http://cloud.webtype.com/webtype/ff2/3/a24f51dc-840c-4a30-a1e3-23f8d4c5afea?ec_token=8f7c4c4997246fd7fa920370ce943b565e9554e9c5cf6ba67ec1bac848e6547ca748a849f0c914bcaa64bf5ac3e45e143be9c2649cec58faa54846eae4522ed48092422e47e7a33563e8c0bd1a06fb7ef91d8125e894854b6fef5a7b65631c96e194a9d7a1ae750b3922a9e39922eef5aa28a4bfc93ff3e7d8b62a72c7d7e5f42ca3c59a527525785126cc6988921cdbbfb1fcc8e11a756e8c9d6d1f1948d1262b052ec66bd17ee2e1a87c22f53cf644d578aa9a807f97add00d6582e1c96830f3478e3ad74bc63eb310d2afa83b150738469aa359b9d385e473e2ff0f5efb98114557667fa8494ca8d0550ecfac238db32ee6879478f1bae4cbbc63712d&ec_token=8f7c4c4997246fd7fa920072cb943b5600c0373355addbf234ce7a16685350d3695f646759de3efb40c0f64c4a70bd493aeec18f43624acb5f98318ac173acbe388e2b12a31db31785edbea8889b9d03b66a5dfdb1e9b4ce67e773b138e031f2fcae6999581a395290b535b4c45d32ba7437ccbdf55f73ee3b405e3688f0c4efb05338532c0b44583ee3faaad11222fd33d69e2bd5370f987ea32015a2dc4a8419f8a7e3b987729c0d48f0",
+			"Emmascript",
+			"div",
+			"../../../Arla.Web/Development/Arla.Web",
+			"Arla.Web/",
+			"../../../Arla.Web/Development",
+			"../../../Arla.Web/",
+			".web",
+			"../../../Arla.Web",
+			"Web",
+			"WEB",
+			"web",
+			"SearchViewLocations",
+			"UpdateAssemblyInfoForArlaWebAppsPurchaseUI",
+			"UpdateAssemblyInfoForArlaWebAppsSearchUI",
+			"SearchOverlay",
+			"InstallArlaWebCoreUIFrontend",
+			"scsslint",
+			".scss-lint.yml",
+			".yml",
+			"	",
+			"scsslint",
+			"--webDir=$WEBDIR",
+			"web: grunt.option('webDir') || '../../../Arla.Web/'",
+			"/*padding:0 10px;*/",
+			"25px",
+			"cart-recipes-grid-buttons",
+			"25px",
+			"foodbox-section--expandable__header",
+			"cart-recipes-grid",
+			"10px 0 10px ",
+			"cart-recipes-grid-buttons",
+			".cart-recipes-grid-buttons",
+			".add-to-cart-button-wrapper",
+			".week-next-button",
+			"ul",
+			".hero-quote",
+			" .hero-quote",
+			" .hero-quote > blockquote",
+			".week-next-button",
+			".week-next-button:not(.disabled):hover",
+			"box-shadow: 0 0 6px 6px rgba(0, 0, 0,",
+			"box-shadow: 0 0 6px 6px rgba(0, 0, 0, ",
+			"hover",
+			".add-to-cart-link",
+			"add-to-cart-link",
+			".delivery-info-link",
+			"tranisition",
+			"@include breakpoint",
+			".week-next-button",
+			".foodbox-week-selector",
+			"js-videofallback",
+			"setupMP4",
+			"jsmpeg",
+			"/globalassets",
+			":",
+			"\n",
+			"\n;",
+			":\n",
+			"setupMP4",
+			"setupMPEG",
+			"js-videofallback",
+			"generic-deck",
+			".delivery-postcode-link",
+			".close-icon",
+			"Arla:shoppinghelp",
+			"closeShoppingHelp",
+			"closeShoppingHelp()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "Arla-Win.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"views/shared/searchmenuitem/index.cshtml",
+				"Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Areas/WebAppsSearch/Views/Shared/SearchMenuItem/Index.cshtml"
+			],
+			[
+				"searchoverlayviewmodel",
+				"Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search/Models/ViewModels/Partials/SearchOverlayViewModel.cs"
+			],
+			[
+				"searchblock",
+				"Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Areas/WebAppsSearch/Views/Blocks/SearchBlockType/Index.cshtml"
+			],
+			[
+				"variables.scss",
+				"Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Scss/_variables.scss"
+			],
+			[
+				"searchmenuitem",
+				"Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Areas/WebAppsSearch/Views/Shared/SearchMenuItem/Index.cshtml"
+			],
+			[
+				"install-arla.web.core.package.ps1",
+				"Arla.Web.Apps.Purchase/Development/Tools/install-arla.web.core.package.ps1"
+			],
+			[
+				"../arla.web.apps.search.ui/web/apps/search/ui/scss/_webcore.scss",
+				"Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Web/Apps/Search/UI/Scss/_webcore.scss"
+			],
+			[
+				"/arla.web.apps.search.ui/web/apps/search/ui/scss/_webcore.scs",
+				"Arla.Web.Apps.Search/Development/Arla.Web.Apps.Search.UI/Web/Apps/Search/UI/Scss/_webcore.scss"
+			],
+			[
+				"varia",
+				"Arla.Web.Apps.Mathem/Development/Arla.Web.Apps.Mathem.UI/Web/Core/UI/Scss/_variables.scss"
+			],
+			[
+				"core-deck-video",
+				"Arla.Web.Apps.Recipes/Development/Arla.Web.Apps.Recipes.UI/Web/Core/UI/Js/Src/core-deck-video-background.js"
+			],
+			[
+				"purchase",
+				"Arla.Web/Development/Arla.Web/Web/Apps/Purchase/UI/Scss/purchase.scss"
+			],
+			[
+				"thumbnaillisthelper",
+				"Arla.Web.Core/Development/Arla.Web.Core/ThumbnailList/ThumbnailListHelper.cs"
+			],
+			[
+				"brandpageviewmodel",
+				"Arla.Web.Apps.Brands/Development/Arla.Web.Apps.Brands/Models/ViewModels/Pages/BrandPageViewModel.cs"
+			],
+			[
+				"brandlistviewmodel",
+				"Arla.Web.Apps.Brands/Development/Arla.Web.Apps.Brands/Models/ViewModels/Blocks/BrandListViewModel.cs"
+			],
+			[
+				"multilineheading",
+				"Arla.Web.Core/Development/Arla.Web.Core.UI/Areas/WebCore/Views/LocalBlocks/MultilineHeadingBlockType/Index.cshtml"
+			],
+			[
+				"brandpage",
+				"Arla.Web.Apps.Brands/Development/Arla.Web.Apps.Brands/Models/Pages/BrandPageType.cs"
+			],
+			[
+				"maincontent",
+				"Arla.Web.Core/Development/Arla.Web.Core.UI/Areas/WebCore/Views/Shared/MainContent/_MainContent.cshtml"
+			],
+			[
+				"js/src/shopping-cart.js",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Js/Src/shopping-cart.js"
+			],
+			[
+				"_custom-selectors.json",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Images/icons/_custom-selectors.json"
+			],
+			[
+				"grunti",
+				"Arla.Web.Core/Development/Tools/node_modules/grunt-grunticon/tasks/grunticon.js"
+			],
+			[
+				"spinner",
+				"Arla.Web/Development/Arla.Web/Web/Apps/GenericPoll/UI/Scss/modules/_spinner.scss"
+			],
+			[
+				"modal",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Js/Src/modal.js"
+			],
+			[
+				"addrecipestoshoppinglistform/index.cshtml",
+				"Arla.Web.Apps.Mathem/Development/Arla.Web.Apps.Mathem.UI/Areas/WebAppsMathem/Views/Pages/AddRecipesToShoppingListForm/Index.cshtml"
+			],
+			[
+				"line-gre",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Images/icons/line-grey-quaternary.svg"
+			],
+			[
+				"mathem/ui/scss/modules/_check-postal.scss",
+				"Arla.Web.Apps.Mathem/Development/Arla.Web.Apps.Mathem.UI/Web/Apps/Mathem/UI/Scss/modules/_check-postal.scss"
+			],
+			[
+				"checkpostalcode",
+				"Arla.Web.Apps.Mathem/Development/Arla.Web.Apps.Mathem.UI/Areas/WebAppsMathem/Views/Shared/CheckPostalCode/Index.cshtml"
+			],
+			[
+				"recipes.scss",
+				"Arla.Web.Apps.Recipes/Development/Arla.Web.Apps.Recipes.UI/Web/Apps/Recipes/UI/Scss/recipes.scss"
+			],
+			[
+				"core-polyfills.js",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Js/Src/core-polyfills.js"
+			],
+			[
+				"white-shopping-cart",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Images/icons/white-shopping-cart.svg"
+			],
+			[
+				"rla.web.core.ui/web/core/ui/js/src/core-polyfills.js",
+				"Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Js/Src/core-polyfills.js"
+			],
+			[
+				"van-dar",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Images/icons/van-dark-green-big.svg"
+			],
+			[
+				"van",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Images/icons/van-dark-green.svg"
+			],
+			[
+				"development/arla.web.core.ui/areas/webcore/views/blocks/ribbonmenublocktype/index.cshtml",
+				"Arla.Web.Core/Development/Arla.Web.Core.UI/Areas/WebCore/Views/Blocks/RibbonMenuBlockType/Index.cshtml"
+			],
+			[
+				"delivery-info-link",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Scss/modules/_delivery-info-link.scss"
+			],
+			[
+				"icon-left.svg",
+				"Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Images/icons/arrow-left.svg"
+			],
+			[
+				"grunticon",
+				"Arla.Web.Core/Development/Tools/node_modules/grunt-grunticon/tasks/grunticon.js"
+			],
+			[
+				"/arla.web.core.ui/web/core/ui/images/icons/_custom-selectors.json",
+				"Arla.Web.Core/Development/Arla.Web.Core.UI/Web/Core/UI/Images/icons/_custom-selectors.json"
+			],
+			[
+				"grunticons",
+				"Arla.Web.Core/Development/Tools/node_modules/grunt-grunticon/tasks/grunticon.js"
+			],
+			[
+				"_foodbox",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Scss/modules/_foodbox-hero.scss"
+			],
+			[
+				"_hero",
+				"Arla.Web.Apps.Purchase/Development/Tools/.sass-cache/a8306f6d576db7af1a38c6ddcb6a68b80a2c5138/_foodbox-hero.scssc"
+			],
+			[
+				"mixins.scss",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Core/UI/Scss/helpers/_mixins.scss"
+			],
+			[
+				"_add-to-cart",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Web/Apps/Purchase/UI/Scss/modules/_add-to-cart.scss"
+			],
+			[
+				"_add-to",
+				"Arla.Web.Apps.Purchase/Development/Tools/.sass-cache/a8306f6d576db7af1a38c6ddcb6a68b80a2c5138/_add-to-cart.scssc"
+			],
+			[
+				"foodboxespagetype/index.cshtml",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase.UI/Areas/WebAppsPurchase/Views/Pages/FoodBoxesPageType/Index.cshtml"
+			],
+			[
+				"purchasesettingspagetype",
+				"Arla.Web.Apps.Purchase/Development/Arla.Web.Apps.Purchase/Models/Pages/Settings/PurchaseSettingsPageType.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 356.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
