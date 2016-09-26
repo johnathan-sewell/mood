@@ -2,21 +2,21 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>SMILES</title>
+        <title>mood</title>
 
         <script src="/dist/bundle.js" defer></script>
         <link rel="stylesheet" type="text/css" href="/dist/styles/style.css">
-        <link rel="icon" type="image/png" href="/icons/favicon-32x32.png" sizes="32x32" />
-        <link rel="icon" type="image/png" href="/icons/favicon-16x16.png" sizes="16x16" />
+        <link rel="shortcut icon" href="/icons/favicon.ico" />
     </head>
 
     <body>
-        <h1>...</h1>
-        <form class="js-smiles-form">
-            <input type="radio" name="smile" value="happy">
-            <input type="radio" name="smile" value="neutral">
-            <input type="radio" name="smile" value="sad">
-            <button type="submit">Done</button>
+        <form method="POST" action="https://jss136j961.execute-api.us-east-1.amazonaws.com/dev/users/1/moods">
+            <input type="hidden" name="date" value="2016-09-26">
+
+            <input type="radio" name="mood" value="happy">
+            <input type="radio" name="mood" value="neutral">
+            <input type="radio" name="mood" value="sad">
+            <button type="submit">Log</button>
         </form>
     </body>
 </html>

@@ -1,13 +1,19 @@
+import ensureUserSession from './ensureUserSession';
+
 console.log('hello, I am the front end');
 
-var smilesController = (function() {
-    const submitSmilesToAPI = () => {
-        console.log('submit here');
-    };
+ensureUserSession()
+window.addEventListener('hashchange', ensureUserSession, false);
 
-    var formEl = document.querySelector('.js-smiles-form');
-    formEl.addEventListener('submit', e => {
-        e.preventDefault();
-        submitSmilesToAPI();
-    });
-})();
+
+// var smilesController = (function() {
+//     const submitSmilesToAPI = () => {
+//         console.log('submit here');
+//     };
+
+//     var formEl = document.querySelector('.js-smiles-form');
+//     formEl.addEventListener('submit', e => {
+//         e.preventDefault();
+//         submitSmilesToAPI();
+//     });
+// })();
