@@ -5,18 +5,39 @@
         <title>mood</title>
 
         <script src="/dist/bundle.js" defer></script>
-        <link rel="stylesheet" type="text/css" href="/dist/styles/style.css">
+        <link rel="stylesheet" type="text/css" href="/styles/styles.css">
         <link rel="shortcut icon" href="/icons/favicon.ico" />
     </head>
 
     <body>
-        <form method="POST" action="https://jss136j961.execute-api.us-east-1.amazonaws.com/dev/users/1/moods">
-            <input type="hidden" name="date" value="2016-09-26">
+        <div class="js-app">
 
-            <input type="radio" name="mood" value="happy">
-            <input type="radio" name="mood" value="neutral">
-            <input type="radio" name="mood" value="sad">
-            <button type="submit">Log</button>
-        </form>
+            <div class="mood-selector">
+                <label for="happy">
+                    <svg class="mood-selector__label mood-selector__label--happy">
+                      <use xlink:href="/icons/svg-symbols.svg#happy" />
+                    </svg>
+                </label>
+                <input type="radio" id="happy" name="mood" value="happy">
+
+                <label for="neutral">
+                    <svg class="mood-selector__label mood-selector__label--neutral">
+                      <use xlink:href="/icons/svg-symbols.svg#neutral" />
+                    </svg>
+                </label>
+                <input type="radio" id="neutral" name="mood" value="neutral">
+
+                <label for="unhappy">
+                    <svg class="mood-selector__label mood-selector__label--unhappy">
+                      <use xlink:href="/icons/svg-symbols.svg#unhappy" />
+                    </svg>
+                </label>
+                <input type="radio" id="unhappy" name="mood" value="unhappy">
+            </div>
+
+            <div class="js-heat-map heatmap">
+            </div>
+        </div>
+
     </body>
 </html>

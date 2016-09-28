@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 10px;
+}
+
+.mood-selector {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  margin: 5em auto;
+}
+  .mood-selector input[type="radio"] {
+    visibility: hidden;
+    position: absolute;
+  }
+  .mood-selector__label {
+      cursor: pointer;
+      margin: 0 1em;
+      height: 10em;
+      width: 10em;
+      transition: fill .2s ease;
+  }
+  .mood-selector__label--happy:hover {
+    fill: #9BC53D;
+  }
+  .mood-selector__label--neutral:hover {
+    fill: #FDE74C;
+  }
+  .mood-selector__label--unhappy:hover {
+    fill: #5BC0EB;
+  }
+
+.heatmap {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  max-width: 490px;
+  margin: auto;
+}
+  .heatmap__block {
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    background-color: #FDE74C;
+    font-size: 1.4em;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-family: monospace;
+    padding: 0.2em;
+    word-break: break-word;
+  }
+    .heatmap__block div {
+      background-image: url('/icons/ic_sentiment_neutral_black_24px.svg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      height:100%;
+      width: 100%;
+      opacity: .2;
+    }
+
+  .heatmap__block--happy {
+    background-color: #9BC53D;
+  }
+    .heatmap__block--happy div {
+      background-image: url('/icons/ic_sentiment_satisfied_black_24px.svg');
+    }
+  .heatmap__block--unhappy {
+    background-color: #5BC0EB;
+  }
+    .heatmap__block--unhappy div {
+      background-image: url('/icons/ic_sentiment_dissatisfied_black_24px.svg');
+    }
+  /*https://coolors.co/5bc0eb-fde74c-9bc53d-e55934-fa7921*/
