@@ -2,6 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
         <title>mood</title>
 
         <script src="/dist/bundle.js" defer></script>
@@ -10,33 +11,34 @@
     </head>
 
     <body>
-        <div class="js-app">
 
-            <div class="mood-selector">
-                <label for="happy">
-                    <svg class="mood-selector__label mood-selector__label--happy">
-                      <use xlink:href="/icons/svg-symbols.svg#happy" />
-                    </svg>
-                </label>
-                <input type="radio" id="happy" name="mood" value="happy">
+        <h1>Track your daily happiness at work</h1>
+        <p>This is your own page, you don't need to log in, just bookmark it and come back again!</p>
 
-                <label for="neutral">
-                    <svg class="mood-selector__label mood-selector__label--neutral">
-                      <use xlink:href="/icons/svg-symbols.svg#neutral" />
-                    </svg>
-                </label>
-                <input type="radio" id="neutral" name="mood" value="neutral">
+        <div class="mood-selector">
+            <label for="happy">
+                <svg class="mood-selector__label mood-selector__label--happy">
+                  <use xlink:href="/icons/svg-symbols.svg#happy" />
+                </svg>
+            </label>
+            <input type="radio" id="happy" name="mood" value="happy">
 
-                <label for="unhappy">
-                    <svg class="mood-selector__label mood-selector__label--unhappy">
-                      <use xlink:href="/icons/svg-symbols.svg#unhappy" />
-                    </svg>
-                </label>
-                <input type="radio" id="unhappy" name="mood" value="unhappy">
-            </div>
+            <label for="neutral">
+                <svg class="mood-selector__label mood-selector__label--neutral">
+                  <use xlink:href="/icons/svg-symbols.svg#neutral" />
+                </svg>
+            </label>
+            <input type="radio" id="neutral" name="mood" value="neutral">
 
-            <div class="js-heat-map heatmap">
-            </div>
+            <label for="unhappy">
+                <svg class="mood-selector__label mood-selector__label--unhappy">
+                  <use xlink:href="/icons/svg-symbols.svg#unhappy" />
+                </svg>
+            </label>
+            <input type="radio" id="unhappy" name="mood" value="unhappy">
+        </div>
+
+        <div class="js-heat-map heatmap">
         </div>
 
     </body>
